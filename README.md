@@ -65,10 +65,6 @@ He/Him
 
 <div align="center">
 
-### 📊 My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manasseh-oss&show_icons=true&theme=dark)
-
 ### 🔗 Featured Repositories
 
 Check out my repositories for infrastructure automation, cloud solutions, and networking utilities!
